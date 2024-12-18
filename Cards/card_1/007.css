@@ -92,7 +92,7 @@ body {
     top: 10px;
     left: calc(50% - 40px); /* Centers horizontally */
     background-color: white;
-    border: 7px solid #31333f;
+    border: 5.7px solid #31333f;
 }
 
 .main_card:hover .face2 h1 {
