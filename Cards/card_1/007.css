@@ -72,6 +72,10 @@ body {
     color: rgb(255, 255, 255);
 }
 
+audio{
+    display: none;
+}
+
 
 /* Face 2 styles */
 .face2 {
