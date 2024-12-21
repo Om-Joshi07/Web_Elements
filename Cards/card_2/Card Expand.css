@@ -40,9 +40,13 @@ img {
   cursor: text;
   padding: 3px 20px;
   text-align: center;
-  transform: translateY(-450px);
+  transform: translateY(-18rem);
   opacity: 0;
   transition: 0.4s;
+}
+
+.content h2 {
+  color: red;
 }
 
 .card:hover
@@ -55,11 +59,6 @@ img {
   transform: translateY(-18rem);
 }
 
-.content h2 {
-  color: #ff0000;
-  font-weight: 900;
-
-}
 
 h5
 {
