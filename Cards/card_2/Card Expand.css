@@ -47,12 +47,15 @@ img {
 
 .content h2 {
   color: red;
+  transition: transform 0.4s ease-in-out;
+
 }
 
 .card:hover
 {
   height: 21rem;
 }
+
 
 .card:hover > .content {
   opacity: 1;
