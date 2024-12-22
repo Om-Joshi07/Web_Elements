@@ -27,7 +27,7 @@ body {
   width: 100%;
   height: 100%;
   transform: translateY(-7rem);
-  z-index: 1;
+  /* z-index: 1; */
 }
 
 img {
@@ -61,6 +61,12 @@ img {
   opacity: 1;
   transform: translateY(-18rem);
 }
+
+
+.card:hover > .content h2 {
+  transform: translateY(-2rem); /* Moves h2 up */
+}
+
 
 
 h5
