@@ -37,20 +37,19 @@ img {
 }
 
 .content {
-  position: relative;
   cursor: text;
-  padding: 3px 20px;
+  padding: px 20px;
   text-align: center;
   transform: translateY(-18rem);
   opacity: 0;
   transition: 0.4s;
+  background-color: red;
 }
 
 .content h2 {
   color: red;
   /* transition: transform 0.4s ease-in-out; */
-  position: absolute;
-  top: 0;
+  opacity: 1;
   
 }
 
