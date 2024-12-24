@@ -71,6 +71,10 @@ img {
 }
 
 
+.card:hover > .content h5{
+  transform: translateY(-17rem);
+  opacity: 1;
+}
 
 
 h5
