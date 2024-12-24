@@ -47,7 +47,7 @@ img {
 }
 
 .content h2 {
-  transition: transform 0.4s ease-in-out;
+  transition: transform 0.2s ease-in;
   opacity: 1;
   transform: translateY(-7rem);
   text-align: center;
@@ -61,12 +61,12 @@ img {
 
 .card:hover > .content {
   opacity: 1;
-  transform: translateY(-18rem);
+  /* transform: translateY(-18rem); */
 }
 
 
 .card:hover > .content h2 {
-  transform: translateY(-2rem); /* Moves h2 up */
+  transform: translateY(-18rem); /* Moves h2 up */
   transition: 1s;
 }
 
