@@ -43,7 +43,6 @@ img {
   transform: translateY(-18rem);
   opacity: 0;
   transition: 0.4s;
-  /* background-color: red; */
 }
 
 .content h2 {
@@ -70,6 +69,7 @@ img {
   transform: translateY(-17rem); 
   transition: .4s;
 }
+
 
 
 
