@@ -47,10 +47,10 @@ img {
 }
 
 .content h2 {
-  /* transition: transform 0.4s ease-in-out; */
+  transition: transform 0.4s ease-in-out;
   opacity: 1;
-  transform: translateY(-8rem);
-  transform: translateX((-140rem));
+  transform: translateY(-7rem);
+  text-align: center;
 }
 
 .card:hover
@@ -67,6 +67,7 @@ img {
 
 .card:hover > .content h2 {
   transform: translateY(-2rem); /* Moves h2 up */
+  transition: 1s;
 }
 
 
