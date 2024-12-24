@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif:regular);
 
+
+*{
+  font-family: Bree Serif;
+}
+
 body {
   height: 100vh;
   display: flex;
