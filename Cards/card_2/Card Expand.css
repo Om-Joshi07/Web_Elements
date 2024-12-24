@@ -45,6 +45,7 @@ img {
   transition: 0.4s;
 }
 
+
 .content h2 {
   transition: 0.3s ease;
   opacity: 1;
@@ -72,9 +73,13 @@ img {
 
 
 .card:hover > .content h5{
-  transform: translateY(-17rem);
+  transform: translateY(-17.9rem);
   opacity: 1;
 }
+
+
+car
+
 
 
 h5
