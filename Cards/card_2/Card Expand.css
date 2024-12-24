@@ -78,7 +78,11 @@ img {
 }
 
 
-car
+.card:hover > .content p{
+  transform: translateY(-17.9rem);
+  opacity: 1;
+}
+
 
 
 
