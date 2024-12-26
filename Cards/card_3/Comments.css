@@ -50,6 +50,5 @@ body {
 .box::before,
 .box::after {
     background: linear-gradient(235deg, #88ff00, #000000, rgb(0, 0, 255))   /* Background  color effects in the edges of the box */
-    
 }
 
