@@ -45,6 +45,7 @@ body {
     background: rgb(255, 255, 255);
     z-index: -1;
     filter: blur(20px);                                          /* background blur effect */
+    border-radius: .9rem;
 }
 
 .box::before,
