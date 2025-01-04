@@ -29,7 +29,7 @@ body
     animation: animate 20s linear infinite;
 }
 
-.shadow::after
+.main::after
 {
     filter: blur(10px);
     
