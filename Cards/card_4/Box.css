@@ -10,12 +10,12 @@ body
     position: relative;
     margin: 200px auto 0;
     height: 485px;
-    width: 80px;
+    width: 180px;
     background: linear-gradient(0deg,#000,#262626);
 }
 
 img{
-    object-fit: contain;
+    object-fit: cover;
     height: 100%;
     width: 100%;
 }
