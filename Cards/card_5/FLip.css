@@ -33,7 +33,7 @@ body {
   height: 100%;
   backface-visibility: hidden;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
-  border-radius: 7px;                    /* Add a border-radius for smooth edges */
+  border-radius: 7px;                    
 }
 
 .flip-card-front {
