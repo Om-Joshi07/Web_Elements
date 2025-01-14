@@ -61,6 +61,6 @@ img
 {
   width: 100%;
   height: 100%;
-  border-radius: 15px;                /* Add border-radius for images inside the flip card */
+  border-radius: 7px;                /* Add border-radius for images inside the flip card */
 }
 
