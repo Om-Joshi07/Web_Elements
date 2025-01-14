@@ -37,7 +37,7 @@ body {
 }
 
 .flip-card-front {
-  /* background-color: #1c1b19; */
+  background-color: #1c1b19;
   text-align: center;
   justify-content: center;
   align-items: center;
