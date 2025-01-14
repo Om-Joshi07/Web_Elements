@@ -9,7 +9,7 @@ body {
 
 .flip-card {
   width: 17rem;
-  height: 449px; 
+  height: 14px; 
   cursor: pointer;
   margin-top: 90px;
   perspective: 1000px;
