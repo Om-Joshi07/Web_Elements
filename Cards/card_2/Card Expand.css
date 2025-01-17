@@ -17,7 +17,7 @@ body {
 }
 
 .card {
-  position: relative;
+  position: relative; 
   width: 15.625rem;
   height: 11.25rem;
   border-radius: 0.625rem;
