@@ -26,6 +26,7 @@ body {
   transition: transform 1s;
 }
 
+
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
 }
