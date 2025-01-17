@@ -43,6 +43,7 @@ img{
     border-radius: .9rem;
 }
 
+
 .main::after
 {
     filter: blur(10px);
