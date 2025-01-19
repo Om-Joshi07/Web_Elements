@@ -67,7 +67,6 @@ body {
     /* transform: translateY(-100%) scale(0); */
     transition: .5s;
     opacity: 0;
-
 }
 
 .content p {
@@ -81,6 +80,7 @@ body {
 .imgBox:hover .content h3
 {
     transform: translateY(0) scale(1);
+    opacity: 1;
 }
 
 .imgBox:hover .content p
@@ -91,13 +91,13 @@ body {
 
 .imgBox:hover img
 {
-    transform: scale(2) translateX(-50px);
+    transform: scale(2) translateX(-25px);
 }
 
 .imgBox:hover .container::before
 {
     opacity: 1;
-    background: rgba(152, 209, 158, 0.636);
+    background: rgba(216, 150, 6, 0.636);
     transform: translateX(0) scale(1) skew(-45deg);
 }
 
