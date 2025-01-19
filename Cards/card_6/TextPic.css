@@ -65,7 +65,7 @@ body {
     color: #ff0000;
     margin-bottom: 30px;
     font-size: 2em;
-    transform: translateY(-100%) scale(0);
+    /* transform: translateY(-100%) scale(0); */
     transition: .5s;
 }
 
