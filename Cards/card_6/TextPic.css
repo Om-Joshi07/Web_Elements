@@ -61,8 +61,8 @@ body {
 }
 
 .content h3 {
-    padding: 0;
-    color: #ff0000;
+    /* padding: 0;s */
+    color: #000000;
     margin-bottom: 30px;
     /* transform: translateY(-100%) scale(0); */
     transition: .5s;
