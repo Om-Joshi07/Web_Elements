@@ -53,11 +53,11 @@ body {
 
 .content {
     position: absolute;
-    /* top: 50%; */
-    transform: translateY(-50%);
+    top: 50%; /* Center the content vertically */
+    left: 50%; /* Center the content horizontally */
+    transform: translate(-50%, -50%); /* Adjust for exact centering */
     padding: 30px 30px;
     text-align: center;
-
 }
 
 .content h1 {
