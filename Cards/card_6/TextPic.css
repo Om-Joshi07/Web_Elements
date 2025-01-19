@@ -60,11 +60,10 @@ body {
     text-align: center;
 }
 
-.content h1 {
+.content h3 {
     padding: 0;
     color: #ff0000;
     margin-bottom: 30px;
-    font-size: 2em;
     /* transform: translateY(-100%) scale(0); */
     transition: .5s;
 }
