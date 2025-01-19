@@ -73,6 +73,7 @@ body {
 
 .content p {
     padding: 11px;
+    padding-right: 26px;
     color: #6b0079;
     font-size: .7em;
     transform: scale(2);
