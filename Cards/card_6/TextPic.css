@@ -26,7 +26,7 @@ body {
     object-fit: cover;     
     object-position: center;   
     transition: .3s;        
-}                 
+}                  
                   
 .container {           
     position: absolute;      
