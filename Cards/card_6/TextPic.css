@@ -11,7 +11,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 } 
- 
+  
 .imgBox { 
     position: relative;
     width: 200px;
@@ -22,7 +22,7 @@ body {
 }    
 
 .imgBox img { 
-    width: 100%;  
+    width: 100%;   
     object-fit: cover;   
     object-position: center;  
     transition: .3s;      
