@@ -20,7 +20,7 @@ body {
     border: 7px solid #ffffff;
     overflow: hidden;   
 }    
-
+ 
 .imgBox img { 
     width: 100%;   
     object-fit: cover;   
