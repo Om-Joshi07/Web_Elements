@@ -127,7 +127,7 @@ body {
     
 .imgBox { 
     position: relative;
-    width: 200px;
+    width: 200px; 
     height: 200px; 
     background-size: cover;
     border: 7px solid #ffffff;
