@@ -130,7 +130,7 @@ body {
     width: 200px; 
     height: 200px; 
     background-size: cover; 
-    border: 7px solid #ffffff;
+    border: 7px solid #ffffff; 
     overflow: hidden;
 }
 
