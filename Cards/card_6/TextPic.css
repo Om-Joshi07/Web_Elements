@@ -129,7 +129,7 @@ body {
     position: relative;
     width: 200px; 
     height: 200px; 
-    background-size: cover;
+    background-size: cover; 
     border: 7px solid #ffffff;
     overflow: hidden;
 }
