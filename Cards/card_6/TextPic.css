@@ -114,7 +114,7 @@ body {
     position: relative;
     width: 400px; 
     height: 400px;
-    background-size: cover;
+    background-size: cover; 
     border: 7px solid #ffffff;
     overflow: hidden;
 }
