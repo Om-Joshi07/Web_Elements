@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,regular,500,600,700,800,900);
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: Roboto Slab;
   min-height: 100vh;
   background-color: #797b7b;
   display: flex;
@@ -11,6 +11,7 @@ body {
   justify-content: center;
   overflow: hidden;
 }
+
 body::before {
   content: "";
   position: absolute;
@@ -19,14 +20,15 @@ body::before {
   width: 100%;
   height: 100%;
   opacity: 0.2;
-  background: url(./images/snow.png);
 }
+
 .row {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 26px;
 }
+
 .card {
   display: flex;
   flex-direction: column;
@@ -130,4 +132,3 @@ body::before {
   color: #6983cb;
   background-color: #f7f5ec;
 }
-
